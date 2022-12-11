@@ -1,0 +1,15 @@
+*
+
+!docs/
+!docs/*.md
+
+!png/
+!png/*.png
+
+!svg/
+!svg/*.svg
+
+!webp/
+!webp/*.webp
+
+!.gitignore
